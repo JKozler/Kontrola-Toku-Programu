@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontrolaTokuProgramu", "KontrolaTokuProgramu\KontrolaTokuProgramu.csproj", "{A68233E5-9237-41F7-806E-1A32B13991AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A68233E5-9237-41F7-806E-1A32B13991AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68233E5-9237-41F7-806E-1A32B13991AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68233E5-9237-41F7-806E-1A32B13991AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68233E5-9237-41F7-806E-1A32B13991AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C38BFABE-E0A7-42E4-956E-0CDCFBB5F5A2}
+	EndGlobalSection
+EndGlobal
