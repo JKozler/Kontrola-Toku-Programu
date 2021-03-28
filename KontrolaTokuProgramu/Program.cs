@@ -13,7 +13,7 @@ namespace KontrolaTokuProgramu
             Console.WriteLine(SectiForCyklus(3, 9));
             Console.WriteLine(SectiWhileCyklus(3, 9));
             Console.WriteLine(SectiDoWhileCyklus(3, 9));
-            Console.WriteLine(SectiRekurentni(3, 9, 1, 1));
+            Console.WriteLine(SectiRekurentni(3, 12, 1, 1));
             Console.ReadKey();
         }
         public static int Factorial(int x)
